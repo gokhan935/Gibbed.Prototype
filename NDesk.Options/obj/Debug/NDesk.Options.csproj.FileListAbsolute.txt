@@ -1,0 +1,9 @@
+C:\Users\Gokhan\Desktop\Packzip-Offzip GUI\repo\svn.gib.me\public\prototype\Gibbed.Prototype-master\NDesk.Options\bin\Debug\NDesk.Options.dll
+C:\Users\Gokhan\Desktop\Packzip-Offzip GUI\repo\svn.gib.me\public\prototype\Gibbed.Prototype-master\NDesk.Options\bin\Debug\NDesk.Options.pdb
+C:\Users\Gokhan\Desktop\Packzip-Offzip GUI\repo\svn.gib.me\public\prototype\Gibbed.Prototype-master\NDesk.Options\obj\Debug\NDesk.Options.dll
+C:\Users\Gokhan\Desktop\Packzip-Offzip GUI\repo\svn.gib.me\public\prototype\Gibbed.Prototype-master\NDesk.Options\obj\Debug\NDesk.Options.pdb
+C:\Users\Gokhan\Desktop\Packzip-Offzip GUI\repo\svn.gib.me\public\prototype\trunk\NDesk.Options\bin\Debug\NDesk.Options.dll
+C:\Users\Gokhan\Desktop\Packzip-Offzip GUI\repo\svn.gib.me\public\prototype\trunk\NDesk.Options\bin\Debug\NDesk.Options.pdb
+C:\Users\Gokhan\Desktop\Packzip-Offzip GUI\repo\svn.gib.me\public\prototype\trunk\NDesk.Options\obj\Debug\NDesk.Options.dll
+C:\Users\Gokhan\Desktop\Packzip-Offzip GUI\repo\svn.gib.me\public\prototype\trunk\NDesk.Options\obj\Debug\NDesk.Options.pdb
+C:\Users\Gokhan\Desktop\Packzip-Offzip GUI\repo\svn.gib.me\public\prototype\trunk\NDesk.Options\obj\Debug\NDesk.Options.csprojResolveAssemblyReference.cache

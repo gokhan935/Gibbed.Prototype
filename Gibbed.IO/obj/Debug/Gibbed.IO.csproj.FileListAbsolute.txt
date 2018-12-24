@@ -1,0 +1,4 @@
+C:\Users\Gokhan\Desktop\Packzip-Offzip GUI\repo\svn.gib.me\public\prototype\trunk\Gibbed.IO\bin\Debug\Gibbed.IO.dll
+C:\Users\Gokhan\Desktop\Packzip-Offzip GUI\repo\svn.gib.me\public\prototype\trunk\Gibbed.IO\bin\Debug\Gibbed.IO.pdb
+C:\Users\Gokhan\Desktop\Packzip-Offzip GUI\repo\svn.gib.me\public\prototype\trunk\Gibbed.IO\obj\Debug\Gibbed.IO.dll
+C:\Users\Gokhan\Desktop\Packzip-Offzip GUI\repo\svn.gib.me\public\prototype\trunk\Gibbed.IO\obj\Debug\Gibbed.IO.pdb
